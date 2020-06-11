@@ -1,0 +1,23 @@
+{
+  "name": "unitTestingArt",
+  "version": "1.0.0",
+  "description": "单元测试艺术（第二版）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoba7come/unitTestingArt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guoba7come/unitTestingArt/issues"
+  },
+  "homepage": "https://github.com/guoba7come/unitTestingArt#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
