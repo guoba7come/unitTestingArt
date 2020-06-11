@@ -18,4 +18,4 @@
     * [2.5 使用参数重构测试](Chapter02/Listing05.md)
     * [2.6 更多 NUnit 属性](Chapter02/Listing06.md)
     * [2.7 测试系统状态的改变而非返回值](Chapter02/Listing07.md)
-    * [2.8 小结](Chapter02/Listing08.md)
+    * [2.8 小结1111](Chapter02/Listing08.md)
