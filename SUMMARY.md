@@ -19,3 +19,4 @@
     * [2.6 更多 NUnit 属性](Chapter02/Listing06.md)
     * [2.7 测试系统状态的改变而非返回值](Chapter02/Listing07.md)
     * [2.8 小结1111](Chapter02/Listing08.md)
+* [第 3 章 第一个单元测试](Chapter03/README.md)
